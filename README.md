@@ -140,3 +140,5 @@ Check the settings menu for additional convenience and customization.
 
 Join the Discord server for suggestions and feedback:
 https://discord.gg/xbuRzCXhUX
+
+(yes I ran through my own readme version through AI to make it look better)
